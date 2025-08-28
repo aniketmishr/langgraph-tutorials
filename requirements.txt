@@ -1,0 +1,5 @@
+dotenv
+langgraph 
+langchain
+google-genai
+langchain_google_genai
